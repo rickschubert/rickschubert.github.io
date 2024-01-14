@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /anniversary
+
+User-agent: *
+Disallow: /secret
